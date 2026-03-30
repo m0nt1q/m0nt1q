@@ -1,21 +1,7 @@
 ### Hi there 👋, my name is Ivan
 #### I am a novice hacker and programmer
 ![I am a novice hacker and programmer](https://static.vecteezy.com/system/resources/previews/025/463/773/non_2x/hacker-logo-design-a-mysterious-and-dangerous-hacker-illustration-vector.jpg)
-            ,--.                  ,--.
-        ,--/  /| .--.--.      ,--/  /|      
-     ,---,': / '/  /    '. ,---,': / ' 
-     :   : '/ /|  :  /`. / :   : '/ / 
-     |   '   , ;  |  |--`  |   '   ,  
-     '   |  /  |  :  ;_    '   |  /    
-     |   ;  ;   \  \    `. |   ;  ;    
-     :   '   \   `----.   \:   '   \   
-     |   |    '  __ \  \  ||   |    '  
-     '   : |.  \/  /`--'  /'   : |.  \ 
-  	 |   | '_\.'--'.     / |   | '_\.' 
-	   '   : |     `--'---'  '   : |     
-	   ;   |,'               ;   |,'     
-	   '---'                 '---'       
-####Wellcome to the KSK. We are a digital shadow, moving unseen, leaving our mark. Our mission: To explore the boundaries of technology, challenge the status quo, and empower knowledge through discreet means. Founded on principles of curiosity, intelligence, and a touch of mischief. We believe in the power of information and the art of digital exploration. KSK is not just a name; it's a philosophy.
+
 ========================================================
 
 •••Ethical hacker | Cybersecurity enthusiast•••
