@@ -15,3 +15,10 @@ Passionate about making the internet a safer place
 Skills: C# / JS / HTML / PYTHON
 
 - 🔭 I’m currently working on this page. 
+- 🌱 I’m currently learning JS 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/m0nt1q)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' alt='telegram' height='40'>](https://t.me/zxcicat)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/vk.svg' alt='vk' height='40'>](https://vk.com/vaniapon)  
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=m0nt1q&show_icons=true)  
+
