@@ -1,16 +1,17 @@
-## Hi there 👋
+### Hi there 👋, my name is Ivan
+#### I am a novice hacker and programmer
+![I am a novice hacker and programmer](https://static.vecteezy.com/system/resources/previews/025/463/773/non_2x/hacker-logo-design-a-mysterious-and-dangerous-hacker-illustration-vector.jpg)
 
-<!--
-**m0nt1q/m0nt1q** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Ethical hacker | Cybersecurity enthusiast
 
-Here are some ideas to get you started:
+Finding vulnerabilities before the bad guys do
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Tools: Kali Linux, Burp Suite, Wireshark
+
+Passionate about making the internet a safer place
+
+#BugBounty | #PenetrationTesting | #CyberSecurity
+
+Skills: C# / JS / HTML / PYTHON
+
+- 🔭 I’m currently working on this page. 
