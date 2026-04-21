@@ -1,4 +1,4 @@
-**Hello, my name is Ivan**
+**Welcome to M0nt1q's GitHub**
 
 
 <img width="500" height="278" alt="♥" src="https://github.com/user-attachments/assets/1b61185b-3543-46cc-9425-010a05aa1ec2" />
@@ -21,7 +21,7 @@
 ========================================================
 
 ## Stats 📊
-![John's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&count_private=true&hide=prs&hide_title=true)
+[![M0nt1q's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourname&theme=dark&show_icons=true)](https://github.com/m0nt1q)
 
 ## Support 🙋‍♂️
 If you encounter any issues or have any questions, feel free to reach out. You can open an issue on the GitHub repository or contact us directly at synfantomki@gmail.com.
