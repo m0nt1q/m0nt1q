@@ -1,7 +1,7 @@
 **Welcome to my README.md**
 
 
-https://github.com/user-attachments/assets/fca9e839-071e-436f-8702-d75fbc9e4a09
+<img width="500" height="278" alt="♥" src="https://github.com/user-attachments/assets/1b61185b-3543-46cc-9425-010a05aa1ec2" />
 
 
 ## About Me 👤
