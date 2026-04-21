@@ -21,7 +21,7 @@
 ========================================================
 
 ## Stats 📊
-[![M0nt1q's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourname&theme=dark&show_icons=true)](https://github.com/m0nt1q)
+[![M0nt1q's GitHub stats](https://github-readme-stats.vercel.app/api?username=chartreuse-dark&theme=dark&show_icons=true)](https://github.com/m0nt1q)
 
 ## Support 🙋‍♂️
 If you encounter any issues or have any questions, feel free to reach out. You can open an issue on the GitHub repository or contact us directly at synfantomki@gmail.com.
