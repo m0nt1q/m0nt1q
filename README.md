@@ -1,6 +1,10 @@
-### Hi there 👋, my name is Ivan
-#### I am a novice hacker and programmer
-![I am a novice hacker and programmer](https://static.vecteezy.com/system/resources/previews/025/463/773/non_2x/hacker-logo-design-a-mysterious-and-dangerous-hacker-illustration-vector.jpg)
+**Welcome to my README.md**
+
+
+https://github.com/user-attachments/assets/51d60702-c004-4432-adf1-f11db9fdb414
+
+
+## About Me 👤
 
 ========================================================
 
@@ -12,20 +16,20 @@
 
 •••Passionate about making the internet a safer place•••
 
-•••#BugBounty | #PenetrationTesting | #CyberSecurity•••
+•••**#BugBounty | #PenetrationTesting | #CyberSecurity**•••
 
 ========================================================
 
-Skills: C# / JS / HTML / PYTHON
+## Stats 📊
+![John's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&count_private=true&hide=prs&hide_title=true)
 
-- 🔭 I’m currently working on this page. 
-- 🌱 I’m currently learning JS 
+## Support 🙋‍♂️
+If you encounter any issues or have any questions, feel free to reach out. You can open an issue on the GitHub repository or contact us directly at synfantomki@gmail.com.
 
+## Technologies Used 🛠
+[![My Skills](https://skillicons.dev/icons?i=js,html,python,c)](https://skillicons.dev)
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/m0nt1q)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' alt='telegram' height='40'>](https://t.me/zxcicat)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/vk.svg' alt='vk' height='40'>](https://vk.com/vaniapon)  
-
-<a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=m0nt1q&show_icons=true)  
-
-
+## To Do 📝
+- [x] Download Linux
+- [ ] Improve knowledge
+- [ ] Write a script
